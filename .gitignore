@@ -1,5 +1,9 @@
 .vs
 [Bb]in
 [Oo]bj
-Mach/[Bb]in
-Mach/[Oo]bj
+/[Bb]in
+/[Oo]bj
+Rental-backend/[Bb]in
+Rental-backend/[Oo]bj
+Rental-Frontend-winforms/[Bb]in
+Rental-Frontend-winforms/[Oo]bj
