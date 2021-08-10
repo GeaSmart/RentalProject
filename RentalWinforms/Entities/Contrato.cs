@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mach.Entities
+namespace RentalWinforms.Entities
 {
     public class Contrato
     {

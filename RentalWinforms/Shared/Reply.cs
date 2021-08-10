@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mach.Shared
+namespace RentalWinforms.Shared
 {
     public class Reply
     {

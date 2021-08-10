@@ -1,5 +1,5 @@
 ﻿
-namespace Mach
+namespace RentalWinforms
 {
     partial class frmContratosNuevo
     {

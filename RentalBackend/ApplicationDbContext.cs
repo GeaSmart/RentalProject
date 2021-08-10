@@ -1,11 +1,11 @@
-﻿using Mach.Entities;
+﻿using RentalBackend.Entities;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mach
+namespace RentalBackend
 {
     public class ApplicationDbContext : DbContext
     {

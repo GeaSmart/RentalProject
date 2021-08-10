@@ -1,5 +1,5 @@
-﻿using Mach.Entities;
-using Mach.Shared;
+﻿using RentalWinforms.Entities;
+using RentalWinforms.Shared;
 using Newtonsoft.Json;
 using System;
 using System.Collections.Generic;
@@ -11,7 +11,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Mach
+namespace RentalWinforms
 {
     public partial class frmContratosTest : Form
     {

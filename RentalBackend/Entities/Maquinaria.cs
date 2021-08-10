@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mach.Entities
+namespace RentalBackend.Entities
 {
     public class Maquinaria
     {

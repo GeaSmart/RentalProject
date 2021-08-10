@@ -1,4 +1,4 @@
-﻿using Mach.Entities;
+﻿using RentalWinforms.Entities;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Net.Http;
@@ -7,7 +7,7 @@ using System.Text;
 using System;
 using System.Net;
 
-namespace Mach.Shared
+namespace RentalWinforms.Shared
 {
     public class ApiHelper
     {

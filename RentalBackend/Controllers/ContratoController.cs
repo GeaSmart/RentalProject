@@ -1,4 +1,4 @@
-﻿using Mach.Entities;
+﻿using RentalBackend.Entities;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Mach.Controllers
+namespace RentalBackend.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
