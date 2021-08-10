@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gazabache\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gazabache\\.nuget\\packages"
+    ]
+  }
+}
